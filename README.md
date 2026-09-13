@@ -109,26 +109,26 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 📊 信号排行榜（每日自动更新）
 
 <!-- STAR_SCOUT_BOARD:START -->
-数据截至 **2026-09-12** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
+数据截至 **2026-09-13** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
 
 ### 🔥 星速榜（星/天，需 ≥2 天快照）
 
 | # | 仓库 | 星速(天) | 加速度 | 信号 |
 |---|---|---|---|---|
-| 1 | debpalash/VoiceStudio | 900.0 | 0.47 | 爆发且健康 |
+| 1 | debpalash/VoiceStudio | 1062.0 | 1.2 | 爆发且健康 |
 | 2 | every-app/open-seo | 273.0 | 0.55 | 爆发且健康 |
-| 3 | lidge-jun/opencodex | 150.0 | 0.82 | 爆发且健康 |
-| 4 | ifixai-ai/iFixAi | 133.0 | 1.19 | 爆发且健康 |
-| 5 | semantica-agi/semantica | 117.0 | 0.79 | 爆发且健康 |
+| 3 | ifixai-ai/iFixAi | 145.5 | 1.74 | 爆发且健康 |
+| 4 | lidge-jun/opencodex | 143.75 | 0.75 | 爆发且健康 |
+| 5 | NVIDIA/SkillSpector | 114.5 | 0.77 | 爆发且健康 |
 
 ### ⚠️ 积压比榜（open issues / stars）
 
 | # | 仓库 | 积压比 | open issues | stars |
 |---|---|---|---|---|
 | 1 | maximhq/bifrost | 12.68% | 1013 | 7990 |
-| 2 | aden-hive/hive | 12.33% | 1361 | 11035 |
-| 3 | XiaomiMiMo/MiMo-Code | 7.61% | 993 | 13055 |
-| 4 | FlagOpen/FlagEmbedding | 7.47% | 908 | 12152 |
+| 2 | aden-hive/hive | 12.28% | 1356 | 11040 |
+| 3 | XiaomiMiMo/MiMo-Code | 7.62% | 998 | 13093 |
+| 4 | FlagOpen/FlagEmbedding | 7.47% | 908 | 12154 |
 | 5 | t8y2/dbx | 7.11% | 1364 | 19191 |
 
 ### 🐢 响应最慢榜（首个非作者评论中位数）
@@ -139,7 +139,7 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 | 2 | bentoml/OpenLLM | 1648.9h | 17 |
 | 3 | microsoft/promptflow | 880.1h | 68 |
 | 4 | Lightning-AI/litgpt | 683.6h | 287 |
-| 5 | TEN-framework/ten-framework | 430.0h | 237 |
+| 5 | TEN-framework/ten-framework | 430.0h | 238 |
 
 > 星速 = 总星差/天数；积压比 ≥5% 视为积压；响应时长 = issue 首个非作者评论时间中位数（小时）。
 <!-- STAR_SCOUT_BOARD:END -->
@@ -148,15 +148,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 🏆 值得跟踪 Top N（每日自动更新）
 
 <!-- STAR_SCOUT_TOP:START -->
-数据截至 **2026-09-12** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
+数据截至 **2026-09-13** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
 
 | # | 仓库 | 评分 | 评级 | 星速(天) | 响应时长 | 积压比 |
 |---|---|---|---|---|---|---|
 | 1 | pipecat-ai/pipecat | **100.0** | 优质 | 38.0 | 2.6h | 1.98% |
-| 2 | lidge-jun/opencodex | **100.0** | 优质 | 150.0 | 0.4h | 1.02% |
-| 3 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 25.0 | 4.1h | 0.92% |
-| 4 | semantica-agi/semantica | **100.0** | 优质 | 117.0 | 2.1h | 0.86% |
-| 5 | The-PR-Agent/pr-agent | **100.0** | 优质 | 17.5 | 2.8h | 0.79% |
+| 2 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 25.0 | 4.1h | 0.92% |
+| 3 | lidge-jun/opencodex | **100.0** | 优质 | 143.75 | 0.6h | 0.91% |
+| 4 | semantica-agi/semantica | **100.0** | 优质 | 106.0 | 2.2h | 0.87% |
+| 5 | The-PR-Agent/pr-agent | **100.0** | 优质 | 17.25 | 4.6h | 0.84% |
 
 > 发展=星速+近期提交活跃；响应=issue 首个非作者评论中位数；issue健康=积压比适中；社区认可=星标对数。缺数据取中性，避免冷启动一票否决。
 <!-- STAR_SCOUT_TOP:END -->
