@@ -109,27 +109,27 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 📊 信号排行榜（每日自动更新）
 
 <!-- STAR_SCOUT_BOARD:START -->
-数据截至 **2026-09-15** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
+数据截至 **2026-09-16** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
 
 ### 🔥 星速榜（星/天，需 ≥2 天快照）
 
 | # | 仓库 | 星速(天) | 加速度 | 信号 |
 |---|---|---|---|---|
 | 1 | debpalash/VoiceStudio | 1224.0 | 1.98 | 爆发且健康 |
-| 2 | every-app/open-seo | 248.25 | 0.36 | 爆发且健康 |
+| 2 | every-app/open-seo | 223.5 | 0.39 | 爆发且健康 |
 | 3 | ifixai-ai/iFixAi | 158.0 | 1.15 | 爆发且健康 |
 | 4 | lidge-jun/opencodex | 137.5 | 0.72 | 爆发且健康 |
-| 5 | NVIDIA/SkillSpector | 105.25 | 0.66 | 爆发且健康 |
+| 5 | NVIDIA/SkillSpector | 114.5 | 1.01 | 爆发且健康 |
 
 ### ⚠️ 积压比榜（open issues / stars）
 
 | # | 仓库 | 积压比 | open issues | stars |
 |---|---|---|---|---|
-| 1 | maximhq/bifrost | 12.37% | 994 | 8034 |
+| 1 | maximhq/bifrost | 12.53% | 1015 | 8102 |
 | 2 | aden-hive/hive | 12.26% | 1354 | 11041 |
 | 3 | BasedHardware/omi | 7.75% | 1045 | 13485 |
 | 4 | XiaomiMiMo/MiMo-Code | 7.62% | 1000 | 13117 |
-| 5 | elizaOS/eliza | 7.48% | 1446 | 19332 |
+| 5 | FlagOpen/FlagEmbedding | 7.47% | 908 | 12160 |
 
 ### 🐢 响应最慢榜（首个非作者评论中位数）
 
@@ -148,15 +148,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 🏆 值得跟踪 Top N（每日自动更新）
 
 <!-- STAR_SCOUT_TOP:START -->
-数据截至 **2026-09-15** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
+数据截至 **2026-09-16** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
 
 | # | 仓库 | 评分 | 评级 | 星速(天) | 响应时长 | 积压比 |
 |---|---|---|---|---|---|---|
-| 1 | pipecat-ai/pipecat | **100.0** | 优质 | 35.0 | 2.6h | 2.06% |
+| 1 | pipecat-ai/pipecat | **100.0** | 优质 | 32.0 | 2.7h | 2.07% |
 | 2 | lidge-jun/opencodex | **100.0** | 优质 | 137.5 | 0.6h | 0.97% |
-| 3 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 23.75 | 4.1h | 0.93% |
-| 4 | semantica-agi/semantica | **100.0** | 优质 | 95.0 | 2.1h | 0.89% |
-| 5 | The-PR-Agent/pr-agent | **100.0** | 优质 | 17.5 | 5.1h | 0.78% |
+| 3 | semantica-agi/semantica | **100.0** | 优质 | 95.0 | 2.1h | 0.89% |
+| 4 | The-PR-Agent/pr-agent | **100.0** | 优质 | 17.5 | 5.1h | 0.78% |
+| 5 | MemTensor/MemOS | **100.0** | 优质 | 14.0 | 0.0h | 0.64% |
 
 > 发展=星速+近期提交活跃；响应=issue 首个非作者评论中位数；issue健康=积压比适中；社区认可=星标对数。缺数据取中性，避免冷启动一票否决。
 <!-- STAR_SCOUT_TOP:END -->
