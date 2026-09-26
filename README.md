@@ -109,27 +109,27 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 📊 信号排行榜（每日自动更新）
 
 <!-- STAR_SCOUT_BOARD:START -->
-数据截至 **2026-09-25** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
+数据截至 **2026-09-26** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
 
 ### 🔥 星速榜（星/天，需 ≥2 天快照）
 
 | # | 仓库 | 星速(天) | 加速度 | 信号 |
 |---|---|---|---|---|
 | 1 | debpalash/VoiceStudio | 808.0 | 0.46 | 爆发且健康 |
-| 2 | every-app/open-seo | 223.5 | 1.57 | 爆发且健康 |
+| 2 | every-app/open-seo | 226.5 | 1.07 | 爆发且健康 |
 | 3 | lidge-jun/opencodex | 152.0 | 0.72 | 爆发且健康 |
 | 4 | ifixai-ai/iFixAi | 145.5 | 0.09 | 爆发且健康 |
-| 5 | t8y2/dbx | 109.0 | 0.82 | 爆发但issue积压 |
+| 5 | t8y2/dbx | 103.0 | 0.66 | 爆发但issue积压 |
 
 ### ⚠️ 积压比榜（open issues / stars）
 
 | # | 仓库 | 积压比 | open issues | stars |
 |---|---|---|---|---|
-| 1 | maximhq/bifrost | 12.70% | 1054 | 8301 |
+| 1 | maximhq/bifrost | 13.35% | 1117 | 8367 |
 | 2 | aden-hive/hive | 12.24% | 1355 | 11071 |
 | 3 | BasedHardware/omi | 11.58% | 1571 | 13561 |
-| 4 | elizaOS/eliza | 8.17% | 1591 | 19476 |
-| 5 | XiaomiMiMo/MiMo-Code | 7.99% | 1076 | 13471 |
+| 4 | XiaomiMiMo/MiMo-Code | 7.99% | 1076 | 13471 |
+| 5 | t8y2/dbx | 7.50% | 1553 | 20718 |
 
 ### 🐢 响应最慢榜（首个非作者评论中位数）
 
@@ -148,15 +148,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 🏆 值得跟踪 Top N（每日自动更新）
 
 <!-- STAR_SCOUT_TOP:START -->
-数据截至 **2026-09-25** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
+数据截至 **2026-09-26** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
 
 | # | 仓库 | 评分 | 评级 | 星速(天) | 响应时长 | 积压比 |
 |---|---|---|---|---|---|---|
-| 1 | pipecat-ai/pipecat | **100.0** | 优质 | 31.5 | 2.7h | 2.29% |
+| 1 | pipecat-ai/pipecat | **100.0** | 优质 | 31.25 | 4.7h | 2.22% |
 | 2 | lidge-jun/opencodex | **100.0** | 优质 | 152.0 | 4.2h | 0.81% |
-| 3 | semantica-agi/semantica | **100.0** | 优质 | 81.75 | 2.8h | 0.71% |
-| 4 | MemTensor/MemOS | **100.0** | 优质 | 15.0 | 0.0h | 0.78% |
-| 5 | The-PR-Agent/pr-agent | **100.0** | 优质 | 16.0 | 2.9h | 0.40% |
+| 3 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 21.25 | 5.4h | 0.83% |
+| 4 | semantica-agi/semantica | **100.0** | 优质 | 81.75 | 2.8h | 0.71% |
+| 5 | MemTensor/MemOS | **100.0** | 优质 | 15.0 | 0.0h | 0.78% |
 
 > 发展=星速+近期提交活跃；响应=issue 首个非作者评论中位数；issue健康=积压比适中；社区认可=星标对数。缺数据取中性，避免冷启动一票否决。
 <!-- STAR_SCOUT_TOP:END -->
