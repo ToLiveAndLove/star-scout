@@ -109,7 +109,7 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 📊 信号排行榜（每日自动更新）
 
 <!-- STAR_SCOUT_BOARD:START -->
-数据截至 **2026-10-17** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
+数据截至 **2026-10-18** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
 
 ### 🔥 星速榜（星/天，需 ≥2 天快照）
 
@@ -117,15 +117,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 |---|---|---|---|---|
 | 1 | debpalash/VoiceStudio | 1060.5 | 2.15 | 爆发且健康 |
 | 2 | ifixai-ai/iFixAi | 263.0 | 2.02 | 爆发且健康 |
-| 3 | every-app/open-seo | 170.5 | 0.78 | 爆发且健康 |
-| 4 | t8y2/dbx | 155.25 | 1.1 | 爆发且健康 |
+| 3 | every-app/open-seo | 163.0 | 0.54 | 爆发且健康 |
+| 4 | t8y2/dbx | 155.0 | 0.54 | 爆发且健康 |
 | 5 | lidge-jun/opencodex | 108.0 | 0.35 | 爆发且健康 |
 
 ### ⚠️ 积压比榜（open issues / stars）
 
 | # | 仓库 | 积压比 | open issues | stars |
 |---|---|---|---|---|
-| 1 | maximhq/bifrost | 13.87% | 1226 | 8842 |
+| 1 | maximhq/bifrost | 14.05% | 1250 | 8897 |
 | 2 | BasedHardware/omi | 12.30% | 1692 | 13754 |
 | 3 | aden-hive/hive | 12.23% | 1358 | 11107 |
 | 4 | XiaomiMiMo/MiMo-Code | 8.37% | 1144 | 13676 |
@@ -148,15 +148,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 🏆 值得跟踪 Top N（每日自动更新）
 
 <!-- STAR_SCOUT_TOP:START -->
-数据截至 **2026-10-17** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
+数据截至 **2026-10-18** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
 
 | # | 仓库 | 评分 | 评级 | 星速(天) | 响应时长 | 积压比 |
 |---|---|---|---|---|---|---|
 | 1 | debpalash/VoiceStudio | **100.0** | 优质 | 1060.5 | 2.2h | 0.27% |
-| 2 | MemTensor/MemOS | **100.0** | 优质 | 14.5 | 0.0h | 1.23% |
-| 3 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 21.25 | 5.4h | 0.80% |
-| 4 | semantica-agi/semantica | **100.0** | 优质 | 41.5 | 5.0h | 0.84% |
-| 5 | The-PR-Agent/pr-agent | **100.0** | 优质 | 14.0 | 2.5h | 0.53% |
+| 2 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 22.5 | 5.4h | 0.86% |
+| 3 | semantica-agi/semantica | **100.0** | 优质 | 41.5 | 5.0h | 0.84% |
+| 4 | The-PR-Agent/pr-agent | **100.0** | 优质 | 14.0 | 2.5h | 0.53% |
+| 5 | lidge-jun/opencodex | **100.0** | 优质 | 108.0 | 5.1h | 0.36% |
 
 > 发展=星速+近期提交活跃；响应=issue 首个非作者评论中位数；issue健康=积压比适中；社区认可=星标对数。缺数据取中性，避免冷启动一票否决。
 <!-- STAR_SCOUT_TOP:END -->
