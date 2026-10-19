@@ -109,27 +109,27 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 📊 信号排行榜（每日自动更新）
 
 <!-- STAR_SCOUT_BOARD:START -->
-数据截至 **2026-10-18** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
+数据截至 **2026-10-19** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
 
 ### 🔥 星速榜（星/天，需 ≥2 天快照）
 
 | # | 仓库 | 星速(天) | 加速度 | 信号 |
 |---|---|---|---|---|
-| 1 | debpalash/VoiceStudio | 1060.5 | 2.15 | 爆发且健康 |
-| 2 | ifixai-ai/iFixAi | 263.0 | 2.02 | 爆发且健康 |
+| 1 | debpalash/VoiceStudio | 1129.5 | 1.97 | 爆发且健康 |
+| 2 | ifixai-ai/iFixAi | 302.25 | 1.42 | 爆发且健康 |
 | 3 | every-app/open-seo | 163.0 | 0.54 | 爆发且健康 |
 | 4 | t8y2/dbx | 155.0 | 0.54 | 爆发且健康 |
-| 5 | lidge-jun/opencodex | 108.0 | 0.35 | 爆发且健康 |
+| 5 | lidge-jun/opencodex | 103.75 | 0.39 | 爆发且健康 |
 
 ### ⚠️ 积压比榜（open issues / stars）
 
 | # | 仓库 | 积压比 | open issues | stars |
 |---|---|---|---|---|
 | 1 | maximhq/bifrost | 14.05% | 1250 | 8897 |
-| 2 | BasedHardware/omi | 12.30% | 1692 | 13754 |
-| 3 | aden-hive/hive | 12.23% | 1358 | 11107 |
-| 4 | XiaomiMiMo/MiMo-Code | 8.37% | 1144 | 13676 |
-| 5 | langchain4j/langchain4j | 7.57% | 1004 | 13257 |
+| 2 | BasedHardware/omi | 13.75% | 1893 | 13764 |
+| 3 | aden-hive/hive | 12.24% | 1360 | 11108 |
+| 4 | XiaomiMiMo/MiMo-Code | 8.36% | 1144 | 13685 |
+| 5 | langchain4j/langchain4j | 7.62% | 1011 | 13260 |
 
 ### 🐢 响应最慢榜（首个非作者评论中位数）
 
@@ -139,7 +139,7 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 | 2 | bentoml/OpenLLM | 1648.9h | 21 |
 | 3 | holaboss-ai/holaOS | 1109.5h | 10 |
 | 4 | Lightning-AI/litgpt | 991.3h | 315 |
-| 5 | microsoft/promptflow | 880.1h | 67 |
+| 5 | microsoft/promptflow | 786.3h | 68 |
 
 > 星速 = 总星差/天数；积压比 ≥5% 视为积压；响应时长 = issue 首个非作者评论时间中位数（小时）。
 <!-- STAR_SCOUT_BOARD:END -->
@@ -148,15 +148,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 🏆 值得跟踪 Top N（每日自动更新）
 
 <!-- STAR_SCOUT_TOP:START -->
-数据截至 **2026-10-18** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
+数据截至 **2026-10-19** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
 
 | # | 仓库 | 评分 | 评级 | 星速(天) | 响应时长 | 积压比 |
 |---|---|---|---|---|---|---|
-| 1 | debpalash/VoiceStudio | **100.0** | 优质 | 1060.5 | 2.2h | 0.27% |
-| 2 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 22.5 | 5.4h | 0.86% |
-| 3 | semantica-agi/semantica | **100.0** | 优质 | 41.5 | 5.0h | 0.84% |
-| 4 | The-PR-Agent/pr-agent | **100.0** | 优质 | 14.0 | 2.5h | 0.53% |
-| 5 | lidge-jun/opencodex | **100.0** | 优质 | 108.0 | 5.1h | 0.36% |
+| 1 | debpalash/VoiceStudio | **100.0** | 优质 | 1129.5 | 2.1h | 0.34% |
+| 2 | MemTensor/MemOS | **100.0** | 优质 | 14.5 | 0.0h | 1.22% |
+| 3 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 22.5 | 5.4h | 0.86% |
+| 4 | semantica-agi/semantica | **100.0** | 优质 | 39.0 | 5.2h | 0.92% |
+| 5 | lidge-jun/opencodex | **100.0** | 优质 | 103.75 | 3.5h | 0.68% |
 
 > 发展=星速+近期提交活跃；响应=issue 首个非作者评论中位数；issue健康=积压比适中；社区认可=星标对数。缺数据取中性，避免冷启动一票否决。
 <!-- STAR_SCOUT_TOP:END -->
