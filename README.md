@@ -109,7 +109,7 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 📊 信号排行榜（每日自动更新）
 
 <!-- STAR_SCOUT_BOARD:START -->
-数据截至 **2026-10-19** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
+数据截至 **2026-10-20** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
 
 ### 🔥 星速榜（星/天，需 ≥2 天快照）
 
@@ -117,15 +117,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 |---|---|---|---|---|
 | 1 | debpalash/VoiceStudio | 1129.5 | 1.97 | 爆发且健康 |
 | 2 | ifixai-ai/iFixAi | 302.25 | 1.42 | 爆发且健康 |
-| 3 | every-app/open-seo | 163.0 | 0.54 | 爆发且健康 |
-| 4 | t8y2/dbx | 155.0 | 0.54 | 爆发且健康 |
+| 3 | every-app/open-seo | 161.5 | 0.77 | 爆发且健康 |
+| 4 | t8y2/dbx | 151.25 | 0.76 | 爆发且健康 |
 | 5 | lidge-jun/opencodex | 103.75 | 0.39 | 爆发且健康 |
 
 ### ⚠️ 积压比榜（open issues / stars）
 
 | # | 仓库 | 积压比 | open issues | stars |
 |---|---|---|---|---|
-| 1 | maximhq/bifrost | 14.05% | 1250 | 8897 |
+| 1 | maximhq/bifrost | 14.06% | 1259 | 8955 |
 | 2 | BasedHardware/omi | 13.75% | 1893 | 13764 |
 | 3 | aden-hive/hive | 12.24% | 1360 | 11108 |
 | 4 | XiaomiMiMo/MiMo-Code | 8.36% | 1144 | 13685 |
@@ -148,13 +148,13 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 🏆 值得跟踪 Top N（每日自动更新）
 
 <!-- STAR_SCOUT_TOP:START -->
-数据截至 **2026-10-19** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
+数据截至 **2026-10-20** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
 
 | # | 仓库 | 评分 | 评级 | 星速(天) | 响应时长 | 积压比 |
 |---|---|---|---|---|---|---|
 | 1 | debpalash/VoiceStudio | **100.0** | 优质 | 1129.5 | 2.1h | 0.34% |
 | 2 | MemTensor/MemOS | **100.0** | 优质 | 14.5 | 0.0h | 1.22% |
-| 3 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 22.5 | 5.4h | 0.86% |
+| 3 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 22.5 | 5.0h | 0.82% |
 | 4 | semantica-agi/semantica | **100.0** | 优质 | 39.0 | 5.2h | 0.92% |
 | 5 | lidge-jun/opencodex | **100.0** | 优质 | 103.75 | 3.5h | 0.68% |
 
