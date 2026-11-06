@@ -109,15 +109,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 📊 信号排行榜（每日自动更新）
 
 <!-- STAR_SCOUT_BOARD:START -->
-数据截至 **2026-11-05** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
+数据截至 **2026-11-06** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
 
 ### 🔥 星速榜（星/天，需 ≥2 天快照）
 
 | # | 仓库 | 星速(天) | 加速度 | 信号 |
 |---|---|---|---|---|
-| 1 | debpalash/VoiceStudio | 1227.75 | 0.84 | 爆发且健康 |
-| 2 | ifixai-ai/iFixAi | 400.75 | 0.69 | 爆发且健康 |
-| 3 | earthtojake/text-to-cad | 193.5 | 1.16 | 爆发且健康 |
+| 1 | debpalash/VoiceStudio | 1224.0 | 0.77 | 爆发且健康 |
+| 2 | ifixai-ai/iFixAi | 386.0 | 0.52 | 爆发且健康 |
+| 3 | earthtojake/text-to-cad | 186.0 | 0.96 | 爆发且健康 |
 | 4 | every-app/open-seo | 143.5 | 1.0 | 爆发且健康 |
 | 5 | t8y2/dbx | 127.25 | 1.21 | 爆发但issue积压 |
 
@@ -126,9 +126,9 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 | # | 仓库 | 积压比 | open issues | stars |
 |---|---|---|---|---|
 | 1 | maximhq/bifrost | 15.28% | 1433 | 9379 |
-| 2 | BasedHardware/omi | 10.98% | 1525 | 13890 |
-| 3 | aden-hive/hive | 9.82% | 1094 | 11142 |
-| 4 | XiaomiMiMo/MiMo-Code | 8.61% | 1183 | 13745 |
+| 2 | BasedHardware/omi | 10.06% | 1399 | 13902 |
+| 3 | aden-hive/hive | 9.83% | 1095 | 11141 |
+| 4 | XiaomiMiMo/MiMo-Code | 8.66% | 1191 | 13760 |
 | 5 | pydantic/pydantic-ai | 8.36% | 1759 | 21033 |
 
 ### 🐢 响应最慢榜（首个非作者评论中位数）
@@ -138,8 +138,8 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 | 1 | datawhalechina/llm-universe | 2341.3h | 18 |
 | 2 | bentoml/OpenLLM | 1648.9h | 22 |
 | 3 | holaboss-ai/holaOS | 1109.5h | 12 |
-| 4 | Lightning-AI/litgpt | 870.8h | 331 |
-| 5 | microsoft/promptflow | 786.3h | 71 |
+| 4 | Lightning-AI/litgpt | 870.8h | 332 |
+| 5 | microsoft/promptflow | 786.3h | 70 |
 
 > 星速 = 总星差/天数；积压比 ≥5% 视为积压；响应时长 = issue 首个非作者评论时间中位数（小时）。
 <!-- STAR_SCOUT_BOARD:END -->
@@ -148,15 +148,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 🏆 值得跟踪 Top N（每日自动更新）
 
 <!-- STAR_SCOUT_TOP:START -->
-数据截至 **2026-11-05** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
+数据截至 **2026-11-06** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
 
 | # | 仓库 | 评分 | 评级 | 星速(天) | 响应时长 | 积压比 |
 |---|---|---|---|---|---|---|
-| 1 | MemTensor/MemOS | **100.0** | 优质 | 15.25 | 0.0h | 1.23% |
+| 1 | MemTensor/MemOS | **100.0** | 优质 | 15.5 | 0.0h | 1.22% |
 | 2 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 23.5 | 4.2h | 0.88% |
-| 3 | oblien/openship | **100.0** | 优质 | 20.5 | 6.2h | 0.95% |
-| 4 | debpalash/VoiceStudio | **100.0** | 优质 | 1227.75 | 3.5h | 0.13% |
-| 5 | The-PR-Agent/pr-agent | **100.0** | 优质 | 14.75 | 1.6h | 0.35% |
+| 3 | debpalash/VoiceStudio | **100.0** | 优质 | 1224.0 | 3.2h | 0.14% |
+| 4 | The-PR-Agent/pr-agent | **100.0** | 优质 | 15.0 | 1.3h | 0.34% |
+| 5 | oblien/openship | **99.5** | 优质 | 20.5 | 8.1h | 1.05% |
 
 > 发展=星速+近期提交活跃；响应=issue 首个非作者评论中位数；issue健康=积压比适中；社区认可=星标对数。缺数据取中性，避免冷启动一票否决。
 <!-- STAR_SCOUT_TOP:END -->
