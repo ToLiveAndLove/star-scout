@@ -1,7 +1,41 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "top_n": 5,
   "items": [
+    {
+      "full_name": "oblien/openship",
+      "score": 100.0,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 1.0,
+        "responsiveness": 1.0,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 15249,
+      "open_issues": 172,
+      "issue_ratio": 0.0113,
+      "resp_hours": 5.8,
+      "resp_samples": 18,
+      "stars_per_day": 19.0
+    },
+    {
+      "full_name": "MemTensor/MemOS",
+      "score": 100.0,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 1.0,
+        "responsiveness": 1.0,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 12342,
+      "open_issues": 163,
+      "issue_ratio": 0.0132,
+      "resp_hours": 0.0,
+      "resp_samples": 74,
+      "stars_per_day": 15.0
+    },
     {
       "full_name": "opensandbox-group/OpenSandbox",
       "score": 100.0,
@@ -20,7 +54,7 @@
       "stars_per_day": 23.5
     },
     {
-      "full_name": "MemTensor/MemOS",
+      "full_name": "The-PR-Agent/pr-agent",
       "score": 100.0,
       "grade": "优质",
       "breakdown": {
@@ -29,12 +63,12 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 12316,
-      "open_issues": 140,
-      "issue_ratio": 0.0114,
-      "resp_hours": 0.0,
-      "resp_samples": 74,
-      "stars_per_day": 15.25
+      "stars": 15780,
+      "open_issues": 44,
+      "issue_ratio": 0.0028,
+      "resp_hours": 1.8,
+      "resp_samples": 37,
+      "stars_per_day": 15.5
     },
     {
       "full_name": "debpalash/VoiceStudio",
@@ -46,50 +80,50 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 104158,
-      "open_issues": 110,
-      "issue_ratio": 0.0011,
+      "stars": 106580,
+      "open_issues": 40,
+      "issue_ratio": 0.0004,
       "resp_hours": 3.7,
-      "resp_samples": 37,
-      "stars_per_day": 1211.25
-    },
-    {
-      "full_name": "The-PR-Agent/pr-agent",
-      "score": 100.0,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 1.0,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 15497,
-      "open_issues": 68,
-      "issue_ratio": 0.0044,
-      "resp_hours": 1.8,
-      "resp_samples": 43,
-      "stars_per_day": 15.25
-    },
-    {
-      "full_name": "oblien/openship",
-      "score": 99.5,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 0.983,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 15230,
-      "open_issues": 157,
-      "issue_ratio": 0.0103,
-      "resp_hours": 8.1,
-      "resp_samples": 18,
-      "stars_per_day": 19.75
+      "resp_samples": 44,
+      "stars_per_day": 1211.0
     }
   ],
   "all": [
     {
+      "full_name": "oblien/openship",
+      "score": 100.0,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 1.0,
+        "responsiveness": 1.0,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 15249,
+      "open_issues": 172,
+      "issue_ratio": 0.0113,
+      "resp_hours": 5.8,
+      "resp_samples": 18,
+      "stars_per_day": 19.0
+    },
+    {
+      "full_name": "MemTensor/MemOS",
+      "score": 100.0,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 1.0,
+        "responsiveness": 1.0,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 12342,
+      "open_issues": 163,
+      "issue_ratio": 0.0132,
+      "resp_hours": 0.0,
+      "resp_samples": 74,
+      "stars_per_day": 15.0
+    },
+    {
       "full_name": "opensandbox-group/OpenSandbox",
       "score": 100.0,
       "grade": "优质",
@@ -107,7 +141,7 @@
       "stars_per_day": 23.5
     },
     {
-      "full_name": "MemTensor/MemOS",
+      "full_name": "The-PR-Agent/pr-agent",
       "score": 100.0,
       "grade": "优质",
       "breakdown": {
@@ -116,12 +150,12 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 12316,
-      "open_issues": 140,
-      "issue_ratio": 0.0114,
-      "resp_hours": 0.0,
-      "resp_samples": 74,
-      "stars_per_day": 15.25
+      "stars": 15780,
+      "open_issues": 44,
+      "issue_ratio": 0.0028,
+      "resp_hours": 1.8,
+      "resp_samples": 37,
+      "stars_per_day": 15.5
     },
     {
       "full_name": "debpalash/VoiceStudio",
@@ -133,46 +167,12 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 104158,
-      "open_issues": 110,
-      "issue_ratio": 0.0011,
+      "stars": 106580,
+      "open_issues": 40,
+      "issue_ratio": 0.0004,
       "resp_hours": 3.7,
-      "resp_samples": 37,
-      "stars_per_day": 1211.25
-    },
-    {
-      "full_name": "The-PR-Agent/pr-agent",
-      "score": 100.0,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 1.0,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 15497,
-      "open_issues": 68,
-      "issue_ratio": 0.0044,
-      "resp_hours": 1.8,
-      "resp_samples": 43,
-      "stars_per_day": 15.25
-    },
-    {
-      "full_name": "oblien/openship",
-      "score": 99.5,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 0.983,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 15230,
-      "open_issues": 157,
-      "issue_ratio": 0.0103,
-      "resp_hours": 8.1,
-      "resp_samples": 18,
-      "stars_per_day": 19.75
+      "resp_samples": 44,
+      "stars_per_day": 1211.0
     },
     {
       "full_name": "semantica-agi/semantica",
@@ -180,16 +180,16 @@
       "grade": "优质",
       "breakdown": {
         "growth": 1.0,
-        "responsiveness": 0.981,
+        "responsiveness": 0.982,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 14473,
-      "open_issues": 115,
-      "issue_ratio": 0.0079,
-      "resp_hours": 8.3,
-      "resp_samples": 66,
-      "stars_per_day": 27.75
+      "stars": 14510,
+      "open_issues": 124,
+      "issue_ratio": 0.0085,
+      "resp_hours": 8.2,
+      "resp_samples": 65,
+      "stars_per_day": 26.0
     },
     {
       "full_name": "pipecat-ai/pipecat",
@@ -218,12 +218,12 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 25793,
-      "open_issues": 53,
-      "issue_ratio": 0.0021,
+      "stars": 25946,
+      "open_issues": 52,
+      "issue_ratio": 0.002,
       "resp_hours": 14.1,
       "resp_samples": 66,
-      "stars_per_day": 178.5
+      "stars_per_day": 172.5
     },
     {
       "full_name": "lidge-jun/opencodex",
@@ -231,16 +231,16 @@
       "grade": "优质",
       "breakdown": {
         "growth": 1.0,
-        "responsiveness": 0.921,
+        "responsiveness": 0.919,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 18297,
-      "open_issues": 176,
-      "issue_ratio": 0.0096,
-      "resp_hours": 15.5,
-      "resp_samples": 15,
-      "stars_per_day": 57.0
+      "stars": 18340,
+      "open_issues": 169,
+      "issue_ratio": 0.0092,
+      "resp_hours": 15.7,
+      "resp_samples": 12,
+      "stars_per_day": 55.0
     },
     {
       "full_name": "altic-dev/FluidVoice",
@@ -252,12 +252,12 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 12893,
-      "open_issues": 125,
-      "issue_ratio": 0.0097,
+      "stars": 12935,
+      "open_issues": 122,
+      "issue_ratio": 0.0094,
       "resp_hours": 19.3,
       "resp_samples": 78,
-      "stars_per_day": 21.75
+      "stars_per_day": 21.5
     },
     {
       "full_name": "NanmiCoder/cc-haha",
@@ -337,9 +337,9 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 14765,
-      "open_issues": 124,
-      "issue_ratio": 0.0084,
+      "stars": 14792,
+      "open_issues": 126,
+      "issue_ratio": 0.0085,
       "resp_hours": 34.9,
       "resp_samples": 37,
       "stars_per_day": 16.0
@@ -375,7 +375,7 @@
       "open_issues": 503,
       "issue_ratio": 0.0248,
       "resp_hours": 0.4,
-      "resp_samples": 66,
+      "resp_samples": 65,
       "stars_per_day": 6.25
     },
     {
@@ -414,17 +414,17 @@
     },
     {
       "full_name": "mrexodia/ida-pro-mcp",
-      "score": 93.0,
+      "score": 92.8,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.721,
+        "growth": 0.713,
         "responsiveness": 1.0,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 13403,
+      "stars": 13430,
       "open_issues": 57,
-      "issue_ratio": 0.0043,
+      "issue_ratio": 0.0042,
       "resp_hours": 3.9,
       "resp_samples": 33,
       "stars_per_day": 21.0
@@ -498,23 +498,6 @@
       "stars_per_day": 38.75
     },
     {
-      "full_name": "MemoriLabs/Memori",
-      "score": 91.5,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.774,
-        "responsiveness": 0.905,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 17481,
-      "open_issues": 61,
-      "issue_ratio": 0.0035,
-      "resp_hours": 17.4,
-      "resp_samples": 18,
-      "stars_per_day": 16.0
-    },
-    {
       "full_name": "NVIDIA/SkillSpector",
       "score": 91.4,
       "grade": "优质",
@@ -532,6 +515,23 @@
       "stars_per_day": 107.75
     },
     {
+      "full_name": "MemoriLabs/Memori",
+      "score": 91.3,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.766,
+        "responsiveness": 0.905,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 17481,
+      "open_issues": 61,
+      "issue_ratio": 0.0035,
+      "resp_hours": 17.4,
+      "resp_samples": 18,
+      "stars_per_day": 16.0
+    },
+    {
       "full_name": "logancyang/obsidian-copilot",
       "score": 90.8,
       "grade": "优质",
@@ -547,23 +547,6 @@
       "resp_hours": 7.2,
       "resp_samples": 24,
       "stars_per_day": 4.5
-    },
-    {
-      "full_name": "huggingface/speech-to-speech",
-      "score": 90.8,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.895,
-        "responsiveness": 0.78,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 13655,
-      "open_issues": 69,
-      "issue_ratio": 0.0051,
-      "resp_hours": 37.5,
-      "resp_samples": 39,
-      "stars_per_day": 8.25
     },
     {
       "full_name": "1jehuang/jcode",
@@ -584,20 +567,37 @@
     },
     {
       "full_name": "HBAI-Ltd/Toonflow-app",
-      "score": 90.5,
+      "score": 90.6,
       "grade": "优质",
       "breakdown": {
         "growth": 1.0,
-        "responsiveness": 0.962,
+        "responsiveness": 0.964,
         "issue_health": 0.583,
         "quality": 1.0
       },
       "stars": 21155,
       "open_issues": 5,
       "issue_ratio": 0.0002,
-      "resp_hours": 10.6,
-      "resp_samples": 122,
+      "resp_hours": 10.3,
+      "resp_samples": 121,
       "stars_per_day": 68.75
+    },
+    {
+      "full_name": "huggingface/speech-to-speech",
+      "score": 90.4,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.88,
+        "responsiveness": 0.78,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 13668,
+      "open_issues": 70,
+      "issue_ratio": 0.0051,
+      "resp_hours": 37.5,
+      "resp_samples": 39,
+      "stars_per_day": 8.0
     },
     {
       "full_name": "cocoindex-io/cocoindex",
@@ -609,9 +609,9 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 11832,
-      "open_issues": 102,
-      "issue_ratio": 0.0086,
+      "stars": 11866,
+      "open_issues": 106,
+      "issue_ratio": 0.0089,
       "resp_hours": 17.6,
       "resp_samples": 30,
       "stars_per_day": 5.5
@@ -635,51 +635,34 @@
     },
     {
       "full_name": "LMCache/LMCache",
-      "score": 89.4,
+      "score": 89.3,
       "grade": "优质",
       "breakdown": {
         "growth": 0.94,
         "responsiveness": 1.0,
-        "issue_health": 0.545,
+        "issue_health": 0.54,
         "quality": 1.0
       },
-      "stars": 12308,
-      "open_issues": 953,
-      "issue_ratio": 0.0774,
-      "resp_hours": 4.1,
-      "resp_samples": 49,
+      "stars": 12324,
+      "open_issues": 965,
+      "issue_ratio": 0.0783,
+      "resp_hours": 3.2,
+      "resp_samples": 56,
       "stars_per_day": 9.0
     },
     {
-      "full_name": "microsoft/agent-framework",
-      "score": 89.4,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 0.938,
-        "issue_health": 0.565,
-        "quality": 1.0
-      },
-      "stars": 14579,
-      "open_issues": 905,
-      "issue_ratio": 0.0621,
-      "resp_hours": 3.5,
-      "resp_samples": 7,
-      "stars_per_day": 17.5
-    },
-    {
       "full_name": "linyqh/NarratoAI",
-      "score": 89.4,
+      "score": 89.2,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.932,
+        "growth": 0.925,
         "responsiveness": 0.927,
         "issue_health": 0.667,
         "quality": 1.0
       },
-      "stars": 11743,
+      "stars": 11769,
       "open_issues": 10,
-      "issue_ratio": 0.0009,
+      "issue_ratio": 0.0008,
       "resp_hours": 14.8,
       "resp_samples": 17,
       "stars_per_day": 11.0
@@ -720,10 +703,10 @@
     },
     {
       "full_name": "zoicware/RemoveWindowsAI",
-      "score": 88.9,
+      "score": 88.7,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.85,
+        "growth": 0.842,
         "responsiveness": 1.0,
         "issue_health": 0.633,
         "quality": 1.0
@@ -736,55 +719,21 @@
       "stars_per_day": 8.0
     },
     {
-      "full_name": "ifixai-ai/iFixAi",
-      "score": 88.8,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 0.826,
-        "issue_health": 0.7,
-        "quality": 1.0
-      },
-      "stars": 44021,
-      "open_issues": 12,
-      "issue_ratio": 0.0003,
-      "resp_hours": 28.6,
-      "resp_samples": 8,
-      "stars_per_day": 376.0
-    },
-    {
       "full_name": "modelcontextprotocol/typescript-sdk",
-      "score": 88.3,
+      "score": 87.9,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.79,
-        "responsiveness": 0.922,
-        "issue_health": 0.795,
+        "growth": 0.775,
+        "responsiveness": 0.923,
+        "issue_health": 0.791,
         "quality": 1.0
       },
-      "stars": 13730,
-      "open_issues": 651,
-      "issue_ratio": 0.0474,
-      "resp_hours": 15.3,
+      "stars": 13740,
+      "open_issues": 662,
+      "issue_ratio": 0.0482,
+      "resp_hours": 15.2,
       "resp_samples": 119,
-      "stars_per_day": 6.5
-    },
-    {
-      "full_name": "browseros-ai/BrowserOS",
-      "score": 88.0,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 0.599,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 14274,
-      "open_issues": 143,
-      "issue_ratio": 0.01,
-      "resp_hours": 72.6,
-      "resp_samples": 36,
-      "stars_per_day": 10.5
+      "stars_per_day": 6.25
     },
     {
       "full_name": "cloudwego/eino",
@@ -796,12 +745,29 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 13580,
-      "open_issues": 322,
-      "issue_ratio": 0.0237,
+      "stars": 13604,
+      "open_issues": 326,
+      "issue_ratio": 0.024,
       "resp_hours": 75.4,
-      "resp_samples": 21,
-      "stars_per_day": 10.25
+      "resp_samples": 23,
+      "stars_per_day": 10.5
+    },
+    {
+      "full_name": "browseros-ai/BrowserOS",
+      "score": 87.3,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 1.0,
+        "responsiveness": 0.577,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 14299,
+      "open_issues": 143,
+      "issue_ratio": 0.01,
+      "resp_hours": 83.1,
+      "resp_samples": 38,
+      "stars_per_day": 10.75
     },
     {
       "full_name": "arc53/DocsGPT",
@@ -821,21 +787,55 @@
       "stars_per_day": 1.5
     },
     {
+      "full_name": "BasedHardware/omi",
+      "score": 87.1,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.865,
+        "responsiveness": 1.0,
+        "issue_health": 0.525,
+        "quality": 1.0
+      },
+      "stars": 13937,
+      "open_issues": 1289,
+      "issue_ratio": 0.0925,
+      "resp_hours": 2.2,
+      "resp_samples": 12,
+      "stars_per_day": 7.75
+    },
+    {
       "full_name": "InsForge/InsForge",
-      "score": 87.0,
+      "score": 86.9,
       "grade": "优质",
       "breakdown": {
         "growth": 0.73,
-        "responsiveness": 0.793,
+        "responsiveness": 0.789,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 13302,
-      "open_issues": 267,
-      "issue_ratio": 0.0201,
-      "resp_hours": 35.0,
-      "resp_samples": 26,
+      "stars": 13316,
+      "open_issues": 274,
+      "issue_ratio": 0.0206,
+      "resp_hours": 35.7,
+      "resp_samples": 29,
       "stars_per_day": 5.5
+    },
+    {
+      "full_name": "puckeditor/puck",
+      "score": 86.9,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.76,
+        "responsiveness": 0.762,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 13668,
+      "open_issues": 208,
+      "issue_ratio": 0.0152,
+      "resp_hours": 40.8,
+      "resp_samples": 43,
+      "stars_per_day": 6.0
     },
     {
       "full_name": "google/magika",
@@ -855,21 +855,21 @@
       "stars_per_day": 3.0
     },
     {
-      "full_name": "puckeditor/puck",
+      "full_name": "livekit/agents",
       "score": 86.5,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.76,
-        "responsiveness": 0.748,
-        "issue_health": 1.0,
+        "growth": 1.0,
+        "responsiveness": 0.85,
+        "issue_health": 0.549,
         "quality": 1.0
       },
-      "stars": 13652,
-      "open_issues": 207,
-      "issue_ratio": 0.0152,
-      "resp_hours": 43.5,
-      "resp_samples": 44,
-      "stars_per_day": 6.0
+      "stars": 15161,
+      "open_issues": 942,
+      "issue_ratio": 0.0621,
+      "resp_hours": 24.0,
+      "resp_samples": 63,
+      "stars_per_day": 15.5
     },
     {
       "full_name": "elie222/inbox-zero",
@@ -881,9 +881,9 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 12942,
-      "open_issues": 145,
-      "issue_ratio": 0.0112,
+      "stars": 12967,
+      "open_issues": 149,
+      "issue_ratio": 0.0115,
       "resp_hours": 53.2,
       "resp_samples": 5,
       "stars_per_day": 8.5
@@ -923,23 +923,6 @@
       "stars_per_day": 16.75
     },
     {
-      "full_name": "livekit/agents",
-      "score": 86.1,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 0.834,
-        "issue_health": 0.557,
-        "quality": 1.0
-      },
-      "stars": 15136,
-      "open_issues": 924,
-      "issue_ratio": 0.061,
-      "resp_hours": 27.1,
-      "resp_samples": 66,
-      "stars_per_day": 15.5
-    },
-    {
       "full_name": "maximhq/bifrost",
       "score": 85.7,
       "grade": "优质",
@@ -957,11 +940,28 @@
       "stars_per_day": 26.0
     },
     {
-      "full_name": "RyanCodrai/turbovec",
-      "score": 84.5,
+      "full_name": "ifixai-ai/iFixAi",
+      "score": 85.4,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.489,
+        "growth": 1.0,
+        "responsiveness": 0.826,
+        "issue_health": 0.533,
+        "quality": 1.0
+      },
+      "stars": 44488,
+      "open_issues": 2,
+      "issue_ratio": 0.0,
+      "resp_hours": 28.6,
+      "resp_samples": 8,
+      "stars_per_day": 366.0
+    },
+    {
+      "full_name": "RyanCodrai/turbovec",
+      "score": 84.3,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.481,
         "responsiveness": 0.977,
         "issue_health": 0.9,
         "quality": 1.0
@@ -974,38 +974,21 @@
       "stars_per_day": 4.75
     },
     {
-      "full_name": "BasedHardware/omi",
-      "score": 84.2,
+      "full_name": "microsoft/agent-framework",
+      "score": 83.8,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.85,
-        "responsiveness": 1.0,
-        "issue_health": 0.4,
+        "growth": 1.0,
+        "responsiveness": 0.75,
+        "issue_health": 0.563,
         "quality": 1.0
       },
-      "stars": 13919,
-      "open_issues": 1428,
-      "issue_ratio": 0.1026,
-      "resp_hours": 2.2,
-      "resp_samples": 14,
-      "stars_per_day": 7.5
-    },
-    {
-      "full_name": "palmier-io/palmier-pro",
-      "score": 83.3,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.76,
-        "responsiveness": 0.643,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 14698,
-      "open_issues": 105,
-      "issue_ratio": 0.0071,
-      "resp_hours": 63.8,
-      "resp_samples": 10,
-      "stars_per_day": 6.0
+      "stars": 14615,
+      "open_issues": 909,
+      "issue_ratio": 0.0622,
+      "resp_hours": 3.8,
+      "resp_samples": 4,
+      "stars_per_day": 17.5
     },
     {
       "full_name": "iii-hq/iii",
@@ -1034,12 +1017,29 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 12673,
-      "open_issues": 255,
-      "issue_ratio": 0.0201,
+      "stars": 12676,
+      "open_issues": 247,
+      "issue_ratio": 0.0195,
       "resp_hours": 40.8,
       "resp_samples": 21,
       "stars_per_day": 3.5
+    },
+    {
+      "full_name": "palmier-io/palmier-pro",
+      "score": 83.1,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.752,
+        "responsiveness": 0.643,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 14718,
+      "open_issues": 105,
+      "issue_ratio": 0.0071,
+      "resp_hours": 63.8,
+      "resp_samples": 10,
+      "stars_per_day": 6.0
     },
     {
       "full_name": "ggml-org/ggml",
@@ -1076,18 +1076,35 @@
       "stars_per_day": 75.75
     },
     {
-      "full_name": "CoplayDev/unity-mcp",
-      "score": 82.4,
+      "full_name": "superset-sh/superset",
+      "score": 82.5,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.977,
+        "growth": 1.0,
+        "responsiveness": 0.733,
+        "issue_health": 0.525,
+        "quality": 1.0
+      },
+      "stars": 16162,
+      "open_issues": 1240,
+      "issue_ratio": 0.0767,
+      "resp_hours": 10.1,
+      "resp_samples": 4,
+      "stars_per_day": 34.75
+    },
+    {
+      "full_name": "CoplayDev/unity-mcp",
+      "score": 82.2,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.97,
         "responsiveness": 0.431,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 15793,
-      "open_issues": 128,
-      "issue_ratio": 0.0081,
+      "stars": 15848,
+      "open_issues": 130,
+      "issue_ratio": 0.0082,
       "resp_hours": 153.3,
       "resp_samples": 26,
       "stars_per_day": 27.0
@@ -1178,11 +1195,28 @@
       "stars_per_day": 2.75
     },
     {
-      "full_name": "camel-ai/camel",
-      "score": 80.9,
+      "full_name": "langchain4j/langchain4j",
+      "score": 80.7,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.715,
+        "growth": 0.745,
+        "responsiveness": 0.887,
+        "issue_health": 0.525,
+        "quality": 1.0
+      },
+      "stars": 13384,
+      "open_issues": 1113,
+      "issue_ratio": 0.0832,
+      "resp_hours": 19.6,
+      "resp_samples": 22,
+      "stars_per_day": 5.75
+    },
+    {
+      "full_name": "camel-ai/camel",
+      "score": 80.7,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.707,
         "responsiveness": 0.731,
         "issue_health": 0.807,
         "quality": 1.0
@@ -1195,57 +1229,6 @@
       "stars_per_day": 5.25
     },
     {
-      "full_name": "superset-sh/superset",
-      "score": 80.8,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 0.678,
-        "issue_health": 0.525,
-        "quality": 1.0
-      },
-      "stars": 16088,
-      "open_issues": 1231,
-      "issue_ratio": 0.0765,
-      "resp_hours": 9.1,
-      "resp_samples": 3,
-      "stars_per_day": 34.5
-    },
-    {
-      "full_name": "langchain4j/langchain4j",
-      "score": 80.8,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.73,
-        "responsiveness": 0.901,
-        "issue_health": 0.525,
-        "quality": 1.0
-      },
-      "stars": 13371,
-      "open_issues": 1113,
-      "issue_ratio": 0.0832,
-      "resp_hours": 17.9,
-      "resp_samples": 25,
-      "stars_per_day": 5.5
-    },
-    {
-      "full_name": "AgriciDaniel/claude-seo",
-      "score": 80.5,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.992,
-        "responsiveness": 0.355,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 27534,
-      "open_issues": 94,
-      "issue_ratio": 0.0034,
-      "resp_hours": 290.9,
-      "resp_samples": 65,
-      "stars_per_day": 75.75
-    },
-    {
       "full_name": "OpenByteInc/QuantDinger",
       "score": 80.5,
       "grade": "优质",
@@ -1255,12 +1238,12 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 13619,
+      "stars": 13665,
       "open_issues": 39,
       "issue_ratio": 0.0029,
       "resp_hours": 303.6,
       "resp_samples": 63,
-      "stars_per_day": 30.75
+      "stars_per_day": 30.5
     },
     {
       "full_name": "coroot/coroot",
@@ -1272,12 +1255,29 @@
         "issue_health": 1.0,
         "quality": 0.976
       },
-      "stars": 8004,
+      "stars": 8006,
       "open_issues": 141,
       "issue_ratio": 0.0176,
       "resp_hours": 31.0,
       "resp_samples": 29,
       "stars_per_day": 1.0
+    },
+    {
+      "full_name": "AgriciDaniel/claude-seo",
+      "score": 80.3,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.985,
+        "responsiveness": 0.355,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 27534,
+      "open_issues": 94,
+      "issue_ratio": 0.0034,
+      "resp_hours": 290.9,
+      "resp_samples": 65,
+      "stars_per_day": 75.75
     },
     {
       "full_name": "xpzouying/xiaohongshu-mcp",
@@ -1297,23 +1297,6 @@
       "stars_per_day": 18.0
     },
     {
-      "full_name": "microsoft/mcp-for-beginners",
-      "score": 80.1,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.79,
-        "responsiveness": 0.567,
-        "issue_health": 0.917,
-        "quality": 1.0
-      },
-      "stars": 17628,
-      "open_issues": 25,
-      "issue_ratio": 0.0014,
-      "resp_hours": 83.1,
-      "resp_samples": 7,
-      "stars_per_day": 6.5
-    },
-    {
       "full_name": "rowboatlabs/rowboat",
       "score": 80.0,
       "grade": "优质",
@@ -1331,38 +1314,38 @@
       "stars_per_day": 4.75
     },
     {
-      "full_name": "EverMind-AI/EverOS",
+      "full_name": "microsoft/mcp-for-beginners",
       "score": 79.9,
       "grade": "优质",
       "breakdown": {
+        "growth": 0.782,
+        "responsiveness": 0.567,
+        "issue_health": 0.917,
+        "quality": 1.0
+      },
+      "stars": 17628,
+      "open_issues": 25,
+      "issue_ratio": 0.0014,
+      "resp_hours": 83.1,
+      "resp_samples": 7,
+      "stars_per_day": 6.5
+    },
+    {
+      "full_name": "EverMind-AI/EverOS",
+      "score": 79.6,
+      "grade": "优质",
+      "breakdown": {
         "growth": 1.0,
-        "responsiveness": 0.329,
+        "responsiveness": 0.319,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 13849,
+      "stars": 13865,
       "open_issues": 47,
       "issue_ratio": 0.0034,
-      "resp_hours": 365.2,
-      "resp_samples": 42,
-      "stars_per_day": 18.5
-    },
-    {
-      "full_name": "XiaomiMiMo/MiMo-Code",
-      "score": 79.7,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.925,
-        "responsiveness": 0.703,
-        "issue_health": 0.525,
-        "quality": 1.0
-      },
-      "stars": 13765,
-      "open_issues": 1194,
-      "issue_ratio": 0.0867,
-      "resp_hours": 52.3,
-      "resp_samples": 37,
-      "stars_per_day": 8.75
+      "resp_hours": 391.3,
+      "resp_samples": 43,
+      "stars_per_day": 18.0
     },
     {
       "full_name": "agent0ai/agent-zero",
@@ -1382,6 +1365,23 @@
       "stars_per_day": 9.0
     },
     {
+      "full_name": "XiaomiMiMo/MiMo-Code",
+      "score": 79.3,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.91,
+        "responsiveness": 0.703,
+        "issue_health": 0.525,
+        "quality": 1.0
+      },
+      "stars": 13777,
+      "open_issues": 1199,
+      "issue_ratio": 0.087,
+      "resp_hours": 52.3,
+      "resp_samples": 37,
+      "stars_per_day": 8.5
+    },
+    {
       "full_name": "codexu/note-gen",
       "score": 79.3,
       "grade": "优质",
@@ -1391,29 +1391,12 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 12990,
-      "open_issues": 82,
-      "issue_ratio": 0.0063,
+      "stars": 12996,
+      "open_issues": 84,
+      "issue_ratio": 0.0065,
       "resp_hours": 65.0,
       "resp_samples": 41,
       "stars_per_day": 3.5
-    },
-    {
-      "full_name": "walkinglabs/learn-harness-engineering",
-      "score": 79.3,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.917,
-        "responsiveness": 0.48,
-        "issue_health": 0.85,
-        "quality": 1.0
-      },
-      "stars": 23851,
-      "open_issues": 21,
-      "issue_ratio": 0.0009,
-      "resp_hours": 129.7,
-      "resp_samples": 16,
-      "stars_per_day": 81.0
     },
     {
       "full_name": "pydantic/pydantic-ai",
@@ -1442,12 +1425,29 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 11224,
+      "stars": 11223,
       "open_issues": 57,
       "issue_ratio": 0.0051,
       "resp_hours": 11.7,
       "resp_samples": 5,
       "stars_per_day": 0.5
+    },
+    {
+      "full_name": "walkinglabs/learn-harness-engineering",
+      "score": 79.1,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.909,
+        "responsiveness": 0.48,
+        "issue_health": 0.85,
+        "quality": 1.0
+      },
+      "stars": 23851,
+      "open_issues": 21,
+      "issue_ratio": 0.0009,
+      "resp_hours": 129.7,
+      "resp_samples": 16,
+      "stars_per_day": 81.0
     },
     {
       "full_name": "Unstructured-IO/unstructured",
@@ -1467,6 +1467,23 @@
       "stars_per_day": 5.0
     },
     {
+      "full_name": "AsyncFuncAI/deepwiki-open",
+      "score": 78.2,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.85,
+        "responsiveness": 0.4,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 18393,
+      "open_issues": 289,
+      "issue_ratio": 0.0157,
+      "resp_hours": 168.2,
+      "resp_samples": 17,
+      "stars_per_day": 7.5
+    },
+    {
       "full_name": "EricLBuehler/mistral.rs",
       "score": 78.1,
       "grade": "优质",
@@ -1484,33 +1501,16 @@
       "stars_per_day": 2.5
     },
     {
-      "full_name": "AsyncFuncAI/deepwiki-open",
-      "score": 77.9,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.835,
-        "responsiveness": 0.4,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 18375,
-      "open_issues": 289,
-      "issue_ratio": 0.0157,
-      "resp_hours": 168.2,
-      "resp_samples": 17,
-      "stars_per_day": 7.25
-    },
-    {
       "full_name": "waooAI/waoowaoo",
-      "score": 77.9,
+      "score": 77.7,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.683,
+        "growth": 0.675,
         "responsiveness": 0.529,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 14810,
+      "stars": 14824,
       "open_issues": 144,
       "issue_ratio": 0.0097,
       "resp_hours": 106.2,
@@ -1519,27 +1519,44 @@
     },
     {
       "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "score": 77.6,
+      "score": 77.5,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.909,
+        "growth": 0.902,
         "responsiveness": 0.641,
         "issue_health": 0.533,
         "quality": 1.0
       },
-      "stars": 11957,
+      "stars": 11967,
       "open_issues": 2,
       "issue_ratio": 0.0002,
       "resp_hours": 47.8,
       "resp_samples": 5,
-      "stars_per_day": 11.75
+      "stars_per_day": 11.5
+    },
+    {
+      "full_name": "Arindam200/awesome-ai-apps",
+      "score": 76.9,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 1.0,
+        "responsiveness": 0.23,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 16739,
+      "open_issues": 68,
+      "issue_ratio": 0.0041,
+      "resp_hours": 636.1,
+      "resp_samples": 77,
+      "stars_per_day": 17.75
     },
     {
       "full_name": "liyupi/ai-guide",
-      "score": 77.1,
+      "score": 76.9,
       "grade": "优质",
       "breakdown": {
-        "growth": 0.917,
+        "growth": 0.909,
         "responsiveness": 0.595,
         "issue_health": 0.567,
         "quality": 1.0
@@ -1550,23 +1567,6 @@
       "resp_hours": 54.6,
       "resp_samples": 4,
       "stars_per_day": 37.0
-    },
-    {
-      "full_name": "Arindam200/awesome-ai-apps",
-      "score": 76.9,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 1.0,
-        "responsiveness": 0.232,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 16729,
-      "open_issues": 67,
-      "issue_ratio": 0.004,
-      "resp_hours": 632.7,
-      "resp_samples": 76,
-      "stars_per_day": 18.0
     },
     {
       "full_name": "googleapis/mcp-toolbox",
@@ -1586,23 +1586,6 @@
       "stars_per_day": 6.5
     },
     {
-      "full_name": "nidhinjs/prompt-master",
-      "score": 76.2,
-      "grade": "优质",
-      "breakdown": {
-        "growth": 0.917,
-        "responsiveness": 0.274,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 15682,
-      "open_issues": 30,
-      "issue_ratio": 0.0019,
-      "resp_hours": 746.9,
-      "resp_samples": 6,
-      "stars_per_day": 46.25
-    },
-    {
       "full_name": "coderamp-labs/gitingest",
       "score": 76.2,
       "grade": "优质",
@@ -1620,11 +1603,28 @@
       "stars_per_day": 7.5
     },
     {
+      "full_name": "nidhinjs/prompt-master",
+      "score": 76.0,
+      "grade": "优质",
+      "breakdown": {
+        "growth": 0.909,
+        "responsiveness": 0.274,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 15776,
+      "open_issues": 30,
+      "issue_ratio": 0.0019,
+      "resp_hours": 746.9,
+      "resp_samples": 6,
+      "stars_per_day": 46.5
+    },
+    {
       "full_name": "datawhalechina/easy-vibe",
-      "score": 74.9,
+      "score": 74.7,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.917,
+        "growth": 0.909,
         "responsiveness": 0.377,
         "issue_health": 0.783,
         "quality": 1.0
@@ -1637,6 +1637,23 @@
       "stars_per_day": 12.25
     },
     {
+      "full_name": "StarTrail-org/LEANN",
+      "score": 74.6,
+      "grade": "较活跃",
+      "breakdown": {
+        "growth": 0.61,
+        "responsiveness": 0.48,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 13787,
+      "open_issues": 50,
+      "issue_ratio": 0.0036,
+      "resp_hours": 129.7,
+      "resp_samples": 11,
+      "stars_per_day": 3.5
+    },
+    {
       "full_name": "nanobrowser/nanobrowser",
       "score": 74.2,
       "grade": "较活跃",
@@ -1646,29 +1663,12 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 14262,
-      "open_issues": 53,
-      "issue_ratio": 0.0037,
+      "stars": 14271,
+      "open_issues": 51,
+      "issue_ratio": 0.0036,
       "resp_hours": 405.4,
       "resp_samples": 18,
       "stars_per_day": 6.5
-    },
-    {
-      "full_name": "StarTrail-org/LEANN",
-      "score": 73.9,
-      "grade": "较活跃",
-      "breakdown": {
-        "growth": 0.58,
-        "responsiveness": 0.48,
-        "issue_health": 1.0,
-        "quality": 1.0
-      },
-      "stars": 13778,
-      "open_issues": 49,
-      "issue_ratio": 0.0036,
-      "resp_hours": 129.7,
-      "resp_samples": 11,
-      "stars_per_day": 3.0
     },
     {
       "full_name": "TEN-framework/ten-framework",
@@ -1680,9 +1680,9 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 11222,
-      "open_issues": 259,
-      "issue_ratio": 0.0231,
+      "stars": 11226,
+      "open_issues": 260,
+      "issue_ratio": 0.0232,
       "resp_hours": 102.7,
       "resp_samples": 3,
       "stars_per_day": 2.0
@@ -1705,6 +1705,23 @@
       "stars_per_day": 2.75
     },
     {
+      "full_name": "simonw/llm",
+      "score": 70.8,
+      "grade": "较活跃",
+      "breakdown": {
+        "growth": 0.67,
+        "responsiveness": 0.559,
+        "issue_health": 0.615,
+        "quality": 1.0
+      },
+      "stars": 12737,
+      "open_issues": 785,
+      "issue_ratio": 0.0616,
+      "resp_hours": 91.9,
+      "resp_samples": 13,
+      "stars_per_day": 4.5
+    },
+    {
       "full_name": "NoFxAiOS/nofx",
       "score": 70.3,
       "grade": "较活跃",
@@ -1714,7 +1731,7 @@
         "issue_health": 0.853,
         "quality": 1.0
       },
-      "stars": 13237,
+      "stars": 13252,
       "open_issues": 514,
       "issue_ratio": 0.0388,
       "resp_hours": 487.8,
@@ -1722,28 +1739,28 @@
       "stars_per_day": 6.5
     },
     {
-      "full_name": "yusufkaraaslan/Skill_Seekers",
-      "score": 69.7,
+      "full_name": "EmbraceAGI/awesome-chatgpt-zh",
+      "score": 69.4,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.481,
-        "responsiveness": 0.422,
+        "growth": 0.52,
+        "responsiveness": 0.379,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 15294,
-      "open_issues": 55,
-      "issue_ratio": 0.0036,
-      "resp_hours": 321.0,
-      "resp_samples": 4,
-      "stars_per_day": 5.5
+      "stars": 11830,
+      "open_issues": 36,
+      "issue_ratio": 0.003,
+      "resp_hours": 225.5,
+      "resp_samples": 14,
+      "stars_per_day": 2.0
     },
     {
       "full_name": "2FastLabs/agent-squad",
-      "score": 69.5,
+      "score": 69.3,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.256,
+        "growth": 0.249,
         "responsiveness": 0.625,
         "issue_health": 1.0,
         "quality": 0.973
@@ -1756,23 +1773,6 @@
       "stars_per_day": 0.75
     },
     {
-      "full_name": "simonw/llm",
-      "score": 69.3,
-      "grade": "较活跃",
-      "breakdown": {
-        "growth": 0.655,
-        "responsiveness": 0.519,
-        "issue_health": 0.616,
-        "quality": 1.0
-      },
-      "stars": 12723,
-      "open_issues": 782,
-      "issue_ratio": 0.0615,
-      "resp_hours": 110.7,
-      "resp_samples": 12,
-      "stars_per_day": 4.25
-    },
-    {
       "full_name": "holaboss-ai/holaOS",
       "score": 69.2,
       "grade": "较活跃",
@@ -1782,12 +1782,46 @@
         "issue_health": 0.717,
         "quality": 1.0
       },
-      "stars": 11433,
+      "stars": 11437,
       "open_issues": 13,
       "issue_ratio": 0.0011,
       "resp_hours": 1109.5,
       "resp_samples": 1,
       "stars_per_day": 4.0
+    },
+    {
+      "full_name": "yusufkaraaslan/Skill_Seekers",
+      "score": 69.0,
+      "grade": "较活跃",
+      "breakdown": {
+        "growth": 0.473,
+        "responsiveness": 0.406,
+        "issue_health": 1.0,
+        "quality": 1.0
+      },
+      "stars": 15294,
+      "open_issues": 55,
+      "issue_ratio": 0.0036,
+      "resp_hours": 584.9,
+      "resp_samples": 3,
+      "stars_per_day": 5.5
+    },
+    {
+      "full_name": "dataelement/bisheng",
+      "score": 68.9,
+      "grade": "较活跃",
+      "breakdown": {
+        "growth": 0.55,
+        "responsiveness": 0.505,
+        "issue_health": 0.75,
+        "quality": 1.0
+      },
+      "stars": 12211,
+      "open_issues": 15,
+      "issue_ratio": 0.0012,
+      "resp_hours": 117.0,
+      "resp_samples": 7,
+      "stars_per_day": 2.5
     },
     {
       "full_name": "GoogleCloudPlatform/generative-ai",
@@ -1807,55 +1841,21 @@
       "stars_per_day": 3.0
     },
     {
-      "full_name": "dataelement/bisheng",
-      "score": 68.6,
-      "grade": "较活跃",
-      "breakdown": {
-        "growth": 0.55,
-        "responsiveness": 0.505,
-        "issue_health": 0.733,
-        "quality": 1.0
-      },
-      "stars": 12176,
-      "open_issues": 14,
-      "issue_ratio": 0.0011,
-      "resp_hours": 117.0,
-      "resp_samples": 7,
-      "stars_per_day": 2.5
-    },
-    {
       "full_name": "fathah/hermes-desktop",
-      "score": 68.1,
+      "score": 67.9,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.639,
+        "growth": 0.632,
         "responsiveness": 0.238,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 14549,
-      "open_issues": 327,
-      "issue_ratio": 0.0225,
+      "stars": 14555,
+      "open_issues": 331,
+      "issue_ratio": 0.0227,
       "resp_hours": 614.0,
       "resp_samples": 47,
       "stars_per_day": 6.5
-    },
-    {
-      "full_name": "EmbraceAGI/awesome-chatgpt-zh",
-      "score": 67.7,
-      "grade": "较活跃",
-      "breakdown": {
-        "growth": 0.505,
-        "responsiveness": 0.379,
-        "issue_health": 0.933,
-        "quality": 1.0
-      },
-      "stars": 11817,
-      "open_issues": 26,
-      "issue_ratio": 0.0022,
-      "resp_hours": 225.5,
-      "resp_samples": 14,
-      "stars_per_day": 1.75
     },
     {
       "full_name": "tailcallhq/forgecode",
@@ -1876,15 +1876,15 @@
     },
     {
       "full_name": "microsoft/promptflow",
-      "score": 65.8,
+      "score": 65.6,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.415,
+        "growth": 0.407,
         "responsiveness": 0.349,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 11263,
+      "stars": 11264,
       "open_issues": 71,
       "issue_ratio": 0.0063,
       "resp_hours": 786.3,
@@ -1892,16 +1892,33 @@
       "stars_per_day": 0.5
     },
     {
-      "full_name": "dair-ai/AI-Papers-of-the-Week",
-      "score": 65.2,
+      "full_name": "bentoml/OpenLLM",
+      "score": 65.1,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.58,
+        "growth": 0.46,
+        "responsiveness": 0.374,
+        "issue_health": 0.867,
+        "quality": 1.0
+      },
+      "stars": 12587,
+      "open_issues": 22,
+      "issue_ratio": 0.0017,
+      "resp_hours": 1648.9,
+      "resp_samples": 3,
+      "stars_per_day": 1.0
+    },
+    {
+      "full_name": "dair-ai/AI-Papers-of-the-Week",
+      "score": 65.0,
+      "grade": "较活跃",
+      "breakdown": {
+        "growth": 0.572,
         "responsiveness": 0.5,
         "issue_health": 0.533,
         "quality": 1.0
       },
-      "stars": 13327,
+      "stars": 13328,
       "open_issues": 2,
       "issue_ratio": 0.0002,
       "resp_hours": null,
@@ -1910,10 +1927,10 @@
     },
     {
       "full_name": "ai-shifu/ChatALL",
-      "score": 65.1,
+      "score": 64.9,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.355,
+        "growth": 0.347,
         "responsiveness": 0.374,
         "issue_health": 1.0,
         "quality": 1.0
@@ -1926,33 +1943,16 @@
       "stars_per_day": 0.25
     },
     {
-      "full_name": "bentoml/OpenLLM",
-      "score": 65.1,
-      "grade": "较活跃",
-      "breakdown": {
-        "growth": 0.46,
-        "responsiveness": 0.374,
-        "issue_health": 0.867,
-        "quality": 1.0
-      },
-      "stars": 12586,
-      "open_issues": 22,
-      "issue_ratio": 0.0017,
-      "resp_hours": 1648.9,
-      "resp_samples": 3,
-      "stars_per_day": 1.0
-    },
-    {
       "full_name": "NirDiamant/Prompt_Engineering",
-      "score": 64.9,
+      "score": 64.7,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.505,
+        "growth": 0.497,
         "responsiveness": 0.562,
         "issue_health": 0.55,
         "quality": 0.975
       },
-      "stars": 7925,
+      "stars": 7932,
       "open_issues": 3,
       "issue_ratio": 0.0004,
       "resp_hours": 0.2,
@@ -1961,27 +1961,27 @@
     },
     {
       "full_name": "aden-hive/hive",
-      "score": 64.4,
+      "score": 64.2,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.535,
-        "responsiveness": 0.516,
+        "growth": 0.52,
+        "responsiveness": 0.525,
         "issue_health": 0.525,
         "quality": 1.0
       },
-      "stars": 11145,
+      "stars": 11148,
       "open_issues": 1096,
       "issue_ratio": 0.0983,
-      "resp_hours": 112.2,
-      "resp_samples": 55,
-      "stars_per_day": 2.25
+      "resp_hours": 108.0,
+      "resp_samples": 56,
+      "stars_per_day": 2.0
     },
     {
       "full_name": "dottxt-ai/outlines",
-      "score": 64.3,
+      "score": 64.1,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.263,
+        "growth": 0.255,
         "responsiveness": 0.422,
         "issue_health": 1.0,
         "quality": 1.0
@@ -1995,27 +1995,27 @@
     },
     {
       "full_name": "Lightning-AI/litgpt",
-      "score": 62.9,
+      "score": 62.7,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.482,
+        "growth": 0.475,
         "responsiveness": 0.194,
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 13748,
-      "open_issues": 333,
-      "issue_ratio": 0.0242,
+      "stars": 13746,
+      "open_issues": 335,
+      "issue_ratio": 0.0244,
       "resp_hours": 870.8,
       "resp_samples": 12,
       "stars_per_day": 1.5
     },
     {
       "full_name": "Chainlit/chainlit",
-      "score": 61.3,
+      "score": 61.2,
       "grade": "较活跃",
       "breakdown": {
-        "growth": 0.12,
+        "growth": 0.113,
         "responsiveness": 0.444,
         "issue_health": 1.0,
         "quality": 1.0
@@ -2029,17 +2029,17 @@
     },
     {
       "full_name": "FlagOpen/FlagEmbedding",
-      "score": 59.7,
+      "score": 59.6,
       "grade": "一般",
       "breakdown": {
-        "growth": 0.505,
+        "growth": 0.497,
         "responsiveness": 0.368,
-        "issue_health": 0.554,
+        "issue_health": 0.555,
         "quality": 1.0
       },
-      "stars": 12302,
-      "open_issues": 930,
-      "issue_ratio": 0.0756,
+      "stars": 12308,
+      "open_issues": 929,
+      "issue_ratio": 0.0755,
       "resp_hours": 257.0,
       "resp_samples": 8,
       "stars_per_day": 2.5
@@ -2054,7 +2054,7 @@
         "issue_health": 0.8,
         "quality": 1.0
       },
-      "stars": 14276,
+      "stars": 14284,
       "open_issues": 18,
       "issue_ratio": 0.0013,
       "resp_hours": 2341.3,
@@ -2071,7 +2071,7 @@
         "issue_health": 1.0,
         "quality": 1.0
       },
-      "stars": 12347,
+      "stars": 12354,
       "open_issues": 244,
       "issue_ratio": 0.0198,
       "resp_hours": 276.0,
