@@ -109,7 +109,7 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 📊 信号排行榜（每日自动更新）
 
 <!-- STAR_SCOUT_BOARD:START -->
-数据截至 **2026-11-14** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
+数据截至 **2026-11-15** · 完整图表看板见仓库 `docs/index.html`（GitHub Pages）
 
 ### 🔥 星速榜（星/天，需 ≥2 天快照）
 
@@ -118,17 +118,17 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 | 1 | debpalash/VoiceStudio | 1198.5 | 0.65 | 爆发且健康 |
 | 2 | ifixai-ai/iFixAi | 341.5 | 0.61 | 爆发且健康 |
 | 3 | earthtojake/text-to-cad | 151.5 | 0.57 | 爆发且健康 |
-| 4 | every-app/open-seo | 143.5 | 1.0 | 爆发且健康 |
-| 5 | t8y2/dbx | 130.75 | 1.01 | 爆发但issue积压 |
+| 4 | every-app/open-seo | 143.5 | 0.72 | 爆发且健康 |
+| 5 | t8y2/dbx | 130.0 | 0.4 | 爆发但issue积压 |
 
 ### ⚠️ 积压比榜（open issues / stars）
 
 | # | 仓库 | 积压比 | open issues | stars |
 |---|---|---|---|---|
-| 1 | maximhq/bifrost | 16.65% | 1587 | 9533 |
+| 1 | maximhq/bifrost | 16.53% | 1580 | 9559 |
 | 2 | aden-hive/hive | 9.85% | 1099 | 11162 |
 | 3 | BasedHardware/omi | 9.77% | 1364 | 13967 |
-| 4 | pydantic/pydantic-ai | 9.18% | 1944 | 21182 |
+| 4 | pydantic/pydantic-ai | 9.21% | 1955 | 21216 |
 | 5 | XiaomiMiMo/MiMo-Code | 8.62% | 1188 | 13782 |
 
 ### 🐢 响应最慢榜（首个非作者评论中位数）
@@ -148,15 +148,15 @@ python3 maintain.py reset-responses  # 作废历史响应数据，按新逻辑�
 ## 🏆 值得跟踪 Top N（每日自动更新）
 
 <!-- STAR_SCOUT_TOP:START -->
-数据截至 **2026-11-14** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
+数据截至 **2026-11-15** · 评分 = 0.25·发展 + 0.30·响应 + 0.20·issue健康 + 0.25·社区认可
 
 | # | 仓库 | 评分 | 评级 | 星速(天) | 响应时长 | 积压比 |
 |---|---|---|---|---|---|---|
-| 1 | opensandbox-group/OpenSandbox | **100.0** | 优质 | 24.25 | 6.2h | 1.29% |
-| 2 | MemTensor/MemOS | **100.0** | 优质 | 15.0 | 0.0h | 1.31% |
-| 3 | lidge-jun/opencodex | **100.0** | 优质 | 51.0 | 5.0h | 0.72% |
-| 4 | The-PR-Agent/pr-agent | **100.0** | 优质 | 17.0 | 1.8h | 0.39% |
-| 5 | mrexodia/ida-pro-mcp | **100.0** | 优质 | 20.5 | 3.9h | 0.42% |
+| 1 | MemTensor/MemOS | **100.0** | 优质 | 15.0 | 0.0h | 1.31% |
+| 2 | lidge-jun/opencodex | **100.0** | 优质 | 51.0 | 5.0h | 0.72% |
+| 3 | The-PR-Agent/pr-agent | **100.0** | 优质 | 17.0 | 1.8h | 0.39% |
+| 4 | mrexodia/ida-pro-mcp | **100.0** | 优质 | 20.5 | 3.5h | 0.42% |
+| 5 | oblien/openship | **99.5** | 优质 | 19.0 | 8.1h | 1.06% |
 
 > 发展=星速+近期提交活跃；响应=issue 首个非作者评论中位数；issue健康=积压比适中；社区认可=星标对数。缺数据取中性，避免冷启动一票否决。
 <!-- STAR_SCOUT_TOP:END -->
